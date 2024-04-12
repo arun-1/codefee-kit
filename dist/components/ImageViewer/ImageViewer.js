@@ -1,0 +1,2 @@
+import{__assign as e}from"../../node_modules/tslib/tslib.es6.js";import t,{forwardRef as r,useState as m}from"react";import{ImageContainer as i,CloseIconButton as n,TimesIcon as l,Image as o}from"./ImageViewer.styled.js";var a=r((function(r,a){var c=m(!1),f=c[0],s=c[1];return t.createElement(i,{ref:a,maximize:f,onClick:function(){f||s(!0)}},f&&t.createElement(n,{onClick:function(){s(!1)}},t.createElement(l,null)),t.createElement(o,e({},r)))}));a.displayName="ImageViewer";export default a;
+//# sourceMappingURL=ImageViewer.js.map

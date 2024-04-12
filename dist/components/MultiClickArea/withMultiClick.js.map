@@ -1,0 +1,1 @@
+{"version":3,"file":"withMultiClick.js","sources":["../../../src/components/MultiClickArea/withMultiClick.tsx"],"sourcesContent":[null],"names":["WrappedComponent","props","React","MultiClickArea"],"mappings":"wIAGuB,SACrBA,EACAC,GACc,oBADdA,MACcC,gBAACC,OAAmBF,GAAQD,EAA5B"}

@@ -1,0 +1,2 @@
+import{__rest as e,__assign as r}from"../../node_modules/tslib/tslib.es6.js";import t,{forwardRef as l}from"react";import{TextAreaContainer as a,TextArea as o}from"./TextArea.styled.js";import m from"../Label/Label.js";var s=l((function(l,s){var i=l.label,d=e(l,["label"]);return t.createElement(a,{ref:s},i?t.createElement(m,{htmlFor:d.id},i):null,t.createElement(o,r({},d)))}));s.displayName="TextArea",s.defaultProps={id:"",label:"",error:!1};export default s;
+//# sourceMappingURL=TextArea.js.map

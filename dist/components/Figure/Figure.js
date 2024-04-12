@@ -1,0 +1,2 @@
+import{__assign as e}from"../../node_modules/tslib/tslib.es6.js";import r,{forwardRef as t}from"react";import{Figure as i,Caption as o}from"./Figure.styled.js";var l=t((function(t,l){var a=t.caption,d=t.children;return r.createElement(i,e({ref:l},t),d,a&&r.createElement(o,null,a))}));l.displayName="Figure",l.defaultProps={caption:void 0,gutter:void 0,children:void 0};export default l;
+//# sourceMappingURL=Figure.js.map

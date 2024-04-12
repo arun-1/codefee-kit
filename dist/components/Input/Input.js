@@ -1,0 +1,2 @@
+import{__rest as e,__assign as r}from"../../node_modules/tslib/tslib.es6.js";import t,{forwardRef as l}from"react";import{InputContainer as a,Input as o}from"./Input.styled.js";import m from"../Label/Label.js";var n=l((function(l,n){var s=l.label,i=e(l,["label"]);return t.createElement(a,{ref:n},s?t.createElement(m,{htmlFor:i.id},s):null,t.createElement(o,r({},i)))}));n.displayName="Input",n.defaultProps={id:"",label:"",error:!1};export default n;
+//# sourceMappingURL=Input.js.map

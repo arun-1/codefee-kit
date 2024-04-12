@@ -1,0 +1,1 @@
+{"version":3,"file":"CommonHelper.js","sources":["../../src/utils/CommonHelper.ts"],"sourcesContent":[null],"names":["getRandomColor","color","i","Math","floor","random"],"mappings":"IAIaA,EAAiB,WAG5B,IAFA,IACIC,EAAQ,IACHC,EAAI,EAAGA,EAAI,EAAGA,GAAK,EAC1BD,GAHc,mBAGGE,KAAKC,MAAsB,GAAhBD,KAAKE,WAEnC,OAAOJ,CACT"}

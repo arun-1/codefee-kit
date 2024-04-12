@@ -1,0 +1,2 @@
+import{__assign as t}from"../../node_modules/tslib/tslib.es6.js";import e,{forwardRef as o}from"react";import{Figure as r,Blockquote as a}from"./Blockquote.styled.js";import i from"../Typography/Typography.js";var p=o((function(o,p){var l=o.caption,c=o.children,m=o.gutter;return e.createElement(r,{ref:p,caption:l,gutter:m},e.createElement(a,t({},o),e.createElement(i,{type:"quote"},c)))}));p.displayName="Blockquote",p.defaultProps={cite:void 0,caption:void 0,gutter:void 0};export default p;
+//# sourceMappingURL=Blockquote.js.map

@@ -1,0 +1,2 @@
+import{__makeTemplateObject as t}from"../node_modules/tslib/tslib.es6.js";import{css as r}from"styled-components";import{rem as n}from"../utils/StyleHelper.js";var e;export default function(l){var o=l.top,i=l.right,m=l.bottom,p=l.left;return r(e||(e=t(["\n  // prettier-ignore\n  margin: "," "," "," ",";\n"],["\n  // prettier-ignore\n  margin: "," "," "," ",";\n"])),n(null!=o?o:0),n(null!=i?i:0),n(null!=m?m:0),n(null!=p?p:0))}
+//# sourceMappingURL=Gutter.styled.js.map

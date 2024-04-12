@@ -1,0 +1,2 @@
+import{__rest as e,__assign as r}from"../../node_modules/tslib/tslib.es6.js";import a,{forwardRef as n}from"react";import{Slider as t}from"./Slider.styled.js";var l=n((function(n,l){var o=n.onValueChange,u=e(n,["onValueChange"]);return a.createElement(t,r({ref:l,onChange:function(e){null==o||o(parseInt(e.currentTarget.value,10))}},u,{type:"range"}))}));l.displayName="Slider",l.defaultProps={value:100,max:100,onValueChange:void 0};export default l;
+//# sourceMappingURL=Slider.js.map

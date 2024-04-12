@@ -1,0 +1,1 @@
+{"version":3,"file":"Separator.js","sources":["../../../src/components/Separator/Separator.tsx"],"sourcesContent":[null],"names":["Separator","_a","React","S.LineSeparator","S.DotSeparator","displayName","defaultProps","type"],"mappings":"iGASMA,EAAgC,SAACC,GACrC,eACE,IAAK,OAIL,QACE,OAAOC,gBAACC,QAHV,IAAK,MACH,OAAOD,gBAACE,QAId,EAEAJ,EAAUK,YAAc,YACxBL,EAAUM,aAAe,CACvBC,KAAM"}

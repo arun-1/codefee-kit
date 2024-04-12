@@ -1,0 +1,2 @@
+var a=function(a,t,r,n){var h=(n-90)*Math.PI/180;return{x:a+r*Math.cos(h),y:t+r*Math.sin(h)}},t=function(a,t,r){var n=a.x,h=a.y,M=t.x,o=t.y,s=r.x,u=r.y,x=o*(n-s)+h*(s-M)+u*(M-n),b=(M-n)*(n-s)+(o-h)*(h-u),c=180*Math.atan(x/b)/Math.PI;return u-h<0?c<0?-1*c:360-c:c<0?180+-1*c:180-c},r=function(a,t){for(var r=0,n=Math.abs(a-r),h=Math.abs(a-r);r<a;)n=Math.abs(a-r),r+=t,h=Math.abs(a-r);return n<h?r-t:r};export{t as calcAngle,a as polarToCartesian,r as roundByStep};
+//# sourceMappingURL=MathHelper.js.map

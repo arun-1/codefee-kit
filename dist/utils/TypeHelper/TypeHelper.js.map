@@ -1,0 +1,1 @@
+{"version":3,"file":"TypeHelper.js","sources":["../../../src/utils/TypeHelper/TypeHelper.ts"],"sourcesContent":[null],"names":["isPromise","value","Boolean","then"],"mappings":"IASaA,EAAY,SAACC,GACxB,OAAAC,QACED,GAA0B,iBAAVA,GAA4C,mBAAfA,EAAME,KADrD"}

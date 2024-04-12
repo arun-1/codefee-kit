@@ -1,0 +1,2 @@
+import{__makeTemplateObject as o}from"../../node_modules/tslib/tslib.es6.js";import n from"styled-components";import t from"../TimePanel/TimePanel.js";import{rem as e}from"../../utils/StyleHelper.js";import m from"../Icons/Clock.js";var s,i,r=n(t)(s||(s=o(["\n  box-shadow: none;\n  padding-bottom: 0;\n"],["\n  box-shadow: none;\n  padding-bottom: 0;\n"]))),l=n(m)(i||(i=o(["\n  font-size: ",";\n"],["\n  font-size: ",";\n"])),e(20));export{l as ClockIcon,r as TimeSelector};
+//# sourceMappingURL=TimePicker.styled.js.map

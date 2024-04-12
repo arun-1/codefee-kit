@@ -1,0 +1,1 @@
+{"version":3,"file":"Label.js","sources":["../../../src/components/Label/Label.tsx"],"sourcesContent":[null],"names":["Label","forwardRef","props","ref","React","S.Label","displayName"],"mappings":"qJAMMA,EAAQC,GAAyC,SAACC,EAAOC,GAAQ,OACrEC,gBAACC,KAAQF,IAAKA,GAASD,OAGzBF,EAAMM,YAAc"}

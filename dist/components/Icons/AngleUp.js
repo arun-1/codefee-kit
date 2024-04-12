@@ -1,0 +1,2 @@
+import{__rest as e,__assign as r}from"../../node_modules/tslib/tslib.es6.js";import t,{forwardRef as l}from"react";import o from"./Icon.js";var i=l((function(l,i){var n=l.children,m=e(l,["children"]);return t.createElement(o,r({ref:i,viewBox:"0 0 1792 1792"},m),n,t.createElement("path",{fill:"currentColor",d:"M1395 1184q0 13-10 23l-50 50q-10 10-23 10t-23-10l-393-393-393 393q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l466-466q10-10 23-10t23 10l466 466q10 10 10 23z"}))}));i.displayName="AngleUp";export default i;
+//# sourceMappingURL=AngleUp.js.map

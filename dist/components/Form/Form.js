@@ -1,0 +1,2 @@
+import{__rest as e,__assign as r}from"../../node_modules/tslib/tslib.es6.js";import t,{forwardRef as o}from"react";import{useForm as m}from"./model.js";var n,l=((n=o((function(o,n){var l=o.formDef,f=o.render,u=o.onSubmit,a=e(o,["formDef","render","onSubmit"]),i=m(l);return i?t.createElement("form",r({ref:n,onSubmit:function(e){e.preventDefault(),null==u||u(i),null==i||i.reset()}},a),f(i)):t.createElement(t.Fragment,null)}))).displayName="Form",n.defaultProps={},n);export default l;
+//# sourceMappingURL=Form.js.map

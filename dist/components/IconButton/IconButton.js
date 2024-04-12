@@ -1,0 +1,2 @@
+import{__rest as r,__assign as t}from"../../node_modules/tslib/tslib.es6.js";import e,{forwardRef as a}from"react";import{PrimaryIconButton as n,SubtleIconButton as o,SecondaryIconButton as s}from"./IconButton.styled.js";var i=a((function(a,i){var u=a.variant,c=r(a,["variant"]),m=function(r){switch(r){case"primary":default:return n;case"secondary":return s;case"subtle":return o}}(u);return e.createElement(m,t({ref:i},c))}));i.displayName="IconButton",i.defaultProps={variant:"primary"};export default i;
+//# sourceMappingURL=IconButton.js.map
